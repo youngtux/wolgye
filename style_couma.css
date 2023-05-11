@@ -1,0 +1,11 @@
+
+.logo {
+  display: inline-block;
+  width:60px;
+  height:60px;
+  font-size: 60px;
+  font-weight: bold;
+  padding-left: 10px;
+  animation: bounceInDown;
+  animation-duration: 2s
+}
